@@ -11,10 +11,23 @@ package Corejava;
  */
 
 public class java04StaticBreackContinue {
-
-	public static void main(String[] args) {
-		
-
+	static int i=1000;
+	
+	static int sum2vals(int i1, int i2) {
+		System.out.println("Static method called ............");
+		return i1+i2;
+	}
+	
+	static {
+		System.out.println("Inside static block ........");
+		i=sum2vals(100, 200);
+	}
+	
+	public static class innerClass{
+		innerClass(){
+			System.out.println("innerclass instance created .......!");
+			
+		}
 	}
 
 }
