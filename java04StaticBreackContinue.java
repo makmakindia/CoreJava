@@ -1,6 +1,8 @@
 package Corejava;
 /*
- Author : Static Key word is used in 5 cases, 
+ Author : Arun 
+ 
+ Static Key word is used in 5 cases, 
  1. Static Variable 
  We can use static keyword with a class level variable, shared across all the instances of Object
  2. Static Methods
