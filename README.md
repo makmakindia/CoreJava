@@ -24,3 +24,15 @@ Corejava/
 ├── Java03ForLoop.java
 ├── java04Main.java
 └── java04MyInterface.java
+
+| Concept            | Description                     |
+| ------------------ | ------------------------------- |
+| Method Overloading | Multiple methods with same name |
+| Recursion          | Method calling itself           |
+| Exception Handling | Handling runtime errors         |
+| Constructors       | Object initialization           |
+| Loops              | Repetitive execution            |
+| Interfaces         | Abstraction support             |
+| Static Members     | Shared class members            |
+| Break & Continue   | Loop control statements         |
+
